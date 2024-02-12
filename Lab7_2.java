@@ -1,6 +1,5 @@
 //Rodrigo Espinoza
-//Lab 7, #2
-//CS/IS 112
+
 
 /*Initial:1
 Each day a person works is doubled*/
@@ -21,7 +20,7 @@ total=amount+total*/
 
 import java.util.Scanner;
 
-public class Lab7_2
+public class Exponential_Pay
 {
     public static void main(String[] args)
     {
